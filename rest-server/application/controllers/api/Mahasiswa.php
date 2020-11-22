@@ -18,7 +18,10 @@ class Mahasiswa extends CI_Controller
       parent::__construct();
       $this->__resTraitConstruct();
       $this->load->model('Mahasiswa_model', 'mhs');
+
+      $this->methods['index_get']['limit'] = 100;
    }
+
    public function index_get()
    {
       $id = $this->get('id');
@@ -40,7 +43,6 @@ class Mahasiswa extends CI_Controller
          ], 404);
       }
    }
-
 
    public function index_delete()
    {

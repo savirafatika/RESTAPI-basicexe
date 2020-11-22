@@ -1,0 +1,30 @@
+[
+   { 
+      "nama": "Savira Fatika" ,
+      "umur": 21,
+      "nim": "17.12.0115",
+      "lulus": true,
+      "hobby": [
+         "coding",
+         "music"
+      ],
+      "pembimbing": {
+         "pembimbing1": "Bu Ninik",
+         "pembimbing2": "Tri"
+      }
+   },
+   { 
+      "nama": "Savira Fatika" ,
+      "umur": 21,
+      "nim": "17.12.0115",
+      "lulus": true,
+      "hobby": [
+         "coding",
+         "music"
+      ],
+      "pembimbing": {
+         "pembimbing1": "Bu Ninik",
+         "pembimbing2": "Tri"
+      }
+   }
+]

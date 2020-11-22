@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "tumpeng",
+            "nama": "Tumpeng Nasi Kuning",
+            "deskripsi": "telur, ayam, kacang dan kering kentang, perkedel.",
+            "harga": 150000,
+            "gambar": "nk.jpg"
+        },
+        {
+            "kategori": "tumpeng",
+            "nama": "Tumpeng Tiwul",
+            "deskripsi": "Topping kelapa parut, gula pasir / parutan gula merah.",
+            "harga": 120000,
+            "gambar": "tiwul.png"
+        },
+        {
+            "kategori": "food",
+            "nama": "Urap Sayur",
+            "deskripsi": "kacang panjang, bayam, tauge, wortel, daun pepaya.",
+            "harga": 29000,
+            "gambar": "urap.jpeg"
+        },
+        {
+            "kategori": "food",
+            "nama": "Nasi Ayam Bakar",
+            "deskripsi": "ayam/bebek/lele, tahu, tempe, lalapam, sambel.",
+            "harga": 25000,
+            "gambar": "bakar.jpg"
+        },
+        {
+            "kategori": "food",
+            "nama": "Nasi Bandeng Presto",
+            "deskripsi": "nasi, bandeng presto, urap, sambel, timun, lalap, tahu/tempe.",
+            "harga": 22000,
+            "gambar": "bandeng.jpg"
+        },
+        {
+            "kategori": "food",
+            "nama": "Nasi Gudeg",
+            "deskripsi": "nasi, gudeg Nangka, opor ayam, sambel goreng krecek, telur,krupuk, sambel.",
+            "harga": 21000,
+            "gambar": "gudeg.jpg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Dessert-Box Durian",
+            "deskripsi": "rasa susu durian, brownis lapis 2, topping oreo/biskuit/choco chip.",
+            "harga": 35000,
+            "gambar": "durian.jpg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Dessert-Box Milk Greentea",
+            "deskripsi": "rasa susu greentea, brownis lapis 2, topping oreo/biskuit/choco chip.",
+            "harga": 25000,
+            "gambar": "greentea.jpg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Dessert-Box Milk Bath",
+            "deskripsi": "rasa susu, brownis lapis 2, topping strawberry/biskuit/choco chip.",
+            "harga": 26000,
+            "gambar": "milkbath.jpg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Dessert-Box Red Velvet",
+            "deskripsi": "rasa susu red velvet, brownis lapis 2, topping oreo/biskuit/choco chip.",
+            "harga": 22000,
+            "gambar": "redvelvet.jpg"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Choco Mint",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Toffee Coffee",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "toffee-coffee.jpg"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Green Tea Shake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "drink",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
